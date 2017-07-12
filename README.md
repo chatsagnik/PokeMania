@@ -1,10 +1,10 @@
 # PokeMania
 This is an exploratory analysis of various Pokemon traits
 
-##Source
+## Source
 Alberto Barradas' [dataset on Pokemon](https://www.kaggle.com/abcsds/pokemon) uploaded at Kaggle. 
 
-##Features of the Dataset
+## Features of the Dataset
 * #: ID for each pokemon
 * Name: Name of each pokemon
 * Type 1: Each pokemon has a type, this determines weakness/resistance to attacks
