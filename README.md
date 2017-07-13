@@ -29,6 +29,8 @@ Alberto Barradas' [dataset on Pokemon](https://www.kaggle.com/abcsds/pokemon) up
 * Given the base stats(HP, attack,defense,sp.attack,sp.def and speed) of a new Pokemon, try to predict which types it will most likely fall in.
 
 ## Results (plotting via matplotlib)
+
+### Stat comparisons among various types
 #### Hitpoint comparisons across various types
 ![Comparison of HP across Types ](/StatsComparisons/hp.png?raw=true)
 #### Attack comparisons across various types
