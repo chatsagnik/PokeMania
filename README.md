@@ -30,4 +30,4 @@ Alberto Barradas' [dataset on Pokemon](https://www.kaggle.com/abcsds/pokemon) up
 
 ## Results (plotting via matplotlib)
 #### Hitpoint comparisons across various types
-[Comparison of HP](https://github.com/chatsagnik/PokeMania/tree/master/StatsComparisons/hp.png)
+[[https://github.com/chatsagnik/PokeMania/tree/master/StatsComparisons/hp.png]]
