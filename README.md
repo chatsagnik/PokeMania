@@ -44,16 +44,16 @@ Alberto Barradas' [dataset on Pokemon](https://www.kaggle.com/abcsds/pokemon) up
 #### Speed comparisons across various types
 ![Comparison of SPEED across Types ](/StatsComparisons/spd.png?raw=true)
 
-### Stat comparisons among between single type and dual type pokemon
-#### Hitpoint comparisons across various types
+### Stat comparisons between single type and dual type pokemon
+#### Hitpoint comparisons between single type and dual type pokemon
 ![Comparison of HP across Types ](/StatsComparisons/hp_sd.png?raw=true)
-#### Attack comparisons across various types
+#### Attack comparisons between single type and dual type pokemon
 ![Comparison of ATK across Types ](/StatsComparisons/atk_sd.png?raw=true)
-#### Defense comparisons across various types
+#### Defense comparisons between single type and dual type pokemon
 ![Comparison of DEF across Types ](/StatsComparisons/def_sd.png?raw=true)
-#### Special Attack comparisons across various types
+#### Special Attack comparisons between single type and dual type pokemon
 ![Comparison of SPATK across Types ](/StatsComparisons/spatk_sd.png?raw=true)
-#### Special Defense comparisons across various types
+#### Special Defense comparisons between single type and dual type pokemon
 ![Comparison of SPDEF across Types ](/StatsComparisons/spdef_sd.png?raw=true)
-#### Speed comparisons across various types
+#### Speed comparisons between single type and dual type pokemon
 ![Comparison of SPEED across Types ](/StatsComparisons/speed_sd.png?raw=true)
