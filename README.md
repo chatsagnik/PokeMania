@@ -43,3 +43,17 @@ Alberto Barradas' [dataset on Pokemon](https://www.kaggle.com/abcsds/pokemon) up
 ![Comparison of SPDEF across Types ](/StatsComparisons/spdef.png?raw=true)
 #### Speed comparisons across various types
 ![Comparison of SPEED across Types ](/StatsComparisons/spd.png?raw=true)
+
+### Stat comparisons among between single type and dual type pokemon
+#### Hitpoint comparisons across various types
+![Comparison of HP across Types ](/StatsComparisons/hp_sd.png?raw=true)
+#### Attack comparisons across various types
+![Comparison of ATK across Types ](/StatsComparisons/atk_sd.png?raw=true)
+#### Defense comparisons across various types
+![Comparison of DEF across Types ](/StatsComparisons/def_sd.png?raw=true)
+#### Special Attack comparisons across various types
+![Comparison of SPATK across Types ](/StatsComparisons/spatk_sd.png?raw=true)
+#### Special Defense comparisons across various types
+![Comparison of SPDEF across Types ](/StatsComparisons/spdef_sd.png?raw=true)
+#### Speed comparisons across various types
+![Comparison of SPEED across Types ](/StatsComparisons/speed_sd.png?raw=true)
